@@ -15,7 +15,8 @@ Sou um especialista em Testes de Software com mais de 5 anos de experiência, fo
 
 Tenho uma vasta experiência em automação de testes, especialmente em sistemas bancários e financeiros. Já trabalhei com:
 
-- **Java, JavaScript/TypeScript, Go** para desenvolvimento de testes automatizados.
+- **Java, JavaScript/TypeScript** para desenvolvimento de testes automatizados.
+- **Go** para desenvolvimento de soluções _server side_ e ferramentas Open Source para a comunidade.
 - **Postman, Robot, Cypress, RestAssured, Appium** para automação de APIs e interfaces de usuário.
 - **Microsoft Azure, Kubernetes, Docker, Jenkins** para infraestrutura e pipelines CI/CD.
 
