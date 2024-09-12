@@ -4,7 +4,7 @@ Sou um especialista em Testes de Software com mais de 5 anos de experiência, fo
 
 ## 🚀 Experiência
 
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Typescript](https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
